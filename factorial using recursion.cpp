@@ -12,7 +12,9 @@ int fact(int n)
 int main()
 {
 	int num;
+	coout<<"Enter any integer"<< endl;
 	cin>>num;
+	cout<<endl;
 	cout<<"factorial of number is  "<<fact(num);
 	return 0;
 }
