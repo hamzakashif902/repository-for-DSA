@@ -2,7 +2,7 @@
 #include<string.h>
 #include<cmath>
 using namespace std;
-#define size 100
+#define size 1000
 class node
 	 {
 	 public:
